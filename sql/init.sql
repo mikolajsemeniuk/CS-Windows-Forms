@@ -1,0 +1,22 @@
+USE master
+GO
+
+DROP DATABASE IF EXISTS app;
+CREATE DATABASE app
+GO
+
+USE app
+GO
+
+DROP TABLE IF EXISTS Cars;
+CREATE TABLE Cars
+(
+    Id INT PRIMARY KEY IDENTITY,
+    Brand VARCHAR(max),
+    Model VARCHAR(max),
+    ProductionYear DATETIME
+)
+GO
+
+SELECT *
+FROM Cars;

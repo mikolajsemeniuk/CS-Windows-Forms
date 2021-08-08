@@ -1,0 +1,15 @@
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\app.exe.config
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\app.exe
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\app.pdb
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.exe
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.pdb
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.Form1.resources
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\EntityFramework.dll
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\EntityFramework.xml
+C:\Users\Mikolaj Semeniuk\Projects\app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mikolaj Semeniuk\Projects\app\obj\Debug\app.csproj.CopyComplete
