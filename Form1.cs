@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data.Entity;
 using System.Threading.Tasks;
 using System.Windows.Forms;
